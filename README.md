@@ -1,1 +1,3 @@
-Projet fait en JAVA/SQL qui est une sorte d'imitation de "StackOverflow", il permet de faire des commentaires ainsi que d'y répondre et de les noter.
+# StackOverflowSQL
+
+Java/SQL project that imitates StackOverflow. You can add question, answer them, and note them.
