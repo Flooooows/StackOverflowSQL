@@ -1,0 +1,1 @@
+Projet fait en JAVA/SQL qui est une sorte d'imitation de "StackOverflow", il permet de faire des commentaires ainsi que d'y répondre et de les noter.
